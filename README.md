@@ -1,3 +1,3 @@
 # Creating mobile application ideas
 - Android
-- maybe an organiser/planner
+- Maybe an organiser/planner
