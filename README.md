@@ -1,3 +1,3 @@
 # Creating mobile application ideas
-- Android
+- Android or iOS (to be compatible with the phone)
 - Maybe an organiser/planner
