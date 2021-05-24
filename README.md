@@ -3,4 +3,4 @@
 - Maybe an organiser/planner
 - Integrate AI?
 - User experience:
-- Target: 
+- Target: To students?
